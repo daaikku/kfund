@@ -1,0 +1,44 @@
+ body{
+background-color: cadetblue;
+}
+.table{
+    border-collapse: collapse;
+}
+ .head{
+     color: thistle;
+     font-size: 95px;
+     border:2px solid black;
+     padding: 35px;
+ }
+ .center{
+     text-align: center;
+}
+
+.cell{
+    border:2px solid black;
+    background-image: linear-gradient(rgb(207, 88, 108) rgb(137, 192, 137));
+    transition: 0.5s;
+    padding: 25px;
+    
+}
+.cell:hover{
+    color: cadetblue;
+    padding: 40px;
+    padding: 25px;
+}
+.cl{
+    border:2px solid black;
+    background-image: linear-gradient(rgb(207, 88, 108) rgb(137, 192, 137));
+    padding: 25px;
+}
+.oo{
+    border:2px solid black;
+    background-image: linear-gradient(rgb(207, 88, 108) rgb(137, 192, 137));
+    padding: 25px;
+}
+
+
+
+
+
+ 

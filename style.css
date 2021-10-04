@@ -1,0 +1,24 @@
+.main{
+    background-color:rgb(230, 225, 219)
+
+}
+.main th{
+   
+    
+    padding: 180px;
+    margin: 20px;
+    height: 120px;
+    font-size: 12px;
+    transition: 0.7px
+    
+}
+h1{
+    text-align: center;
+}
+.pappy{
+    text-align: center;
+}
+.main th:hover{
+    border: 2px solid black;
+}
+
