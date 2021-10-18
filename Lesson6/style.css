@@ -1,0 +1,45 @@
+.text{
+    text-align: center;
+}
+.cointaner{
+    width: 100%;
+   
+}
+
+
+.blue{
+    width: 450px;
+    height: 150px;
+    background-color: blue;
+    margin: 0 auto;
+}
+.green{
+    width: 450px;
+    height: 150px;
+    background-color: green;
+    margin: 0 auto;
+}
+.red{
+    width: 450px;
+    height: 150px;
+    background-color: red;
+    margin: 0 auto;
+}
+.inline{
+    
+    display: inline-block;
+    height:150px ;
+    width: 17%;
+
+}
+.yellow{
+    background-color:yellow;
+    height:150px ;
+    width: 51.5%;
+
+}
+.inline_black, .inline_gray{
+    display: inline-block;
+    height:150px ;
+    width: 20.75%;
+}
